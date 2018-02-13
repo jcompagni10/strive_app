@@ -1,0 +1,38 @@
+// Place all the styles related to the static_pages controller here.
+// They will automatically be included in application.css.
+// You can use Sass (SCSS) here: http://sass-lang.com/
+
+.question-wrapper{
+  padding: 40px;
+}
+
+.question-title{
+  float: left;
+}
+
+.time{
+  position: relative;
+  float: right;
+  top: -20px;
+}
+
+.question-hr{
+  position: relative;
+  top: 20px;
+  margin-bottom: 30px;
+}
+
+.question-response{
+  width: 100%;
+  height: 200px;
+}
+
+.done-wrapper{
+  width: 400px;
+  margin: 40px auto;
+  text-align: center;
+}
+
+.tos-label{
+  display: inline;
+}
